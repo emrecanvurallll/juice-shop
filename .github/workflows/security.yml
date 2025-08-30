@@ -1,4 +1,4 @@
-name: Raconf2025-DevSecOps-Pipeline
+name: DumendenSecurity-DevSecOps-Pipeline
 
 on:
   push:
